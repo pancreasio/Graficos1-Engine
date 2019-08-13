@@ -6,9 +6,7 @@ class USSR BaseGame
 {
 public:
 	BaseGame();
-	int TestFunc(int xd) {
-		return xd;
-	}
+	int TestFunc(int testInt);
 	~BaseGame();
 };
 #endif
