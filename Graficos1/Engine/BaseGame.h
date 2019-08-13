@@ -7,6 +7,7 @@ class USSR BaseGame
 public:
 	BaseGame();
 	int TestFunc(int testInt);
+	int GlfwTest();
 	~BaseGame();
 };
 #endif
